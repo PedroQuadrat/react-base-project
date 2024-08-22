@@ -7,7 +7,7 @@
   /* https://coolors.co/ */
 
   --primaria: hsla(210, 67%, 43%, 1);
-  --background: hsla(108, 22%, 87%, 1);
+  --background: rgb(18, 19, 18);
   --secundaria: rgb(8, 221, 54);
   --destaque: rgb(224, 240, 7);
   --detalhe: hsla(9, 63%, 45%, 1);
