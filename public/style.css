@@ -8,8 +8,8 @@
 
   --primaria: hsla(210, 67%, 43%, 1);
   --background: hsla(108, 22%, 87%, 1);
-  --secundaria: hsla(34, 100%, 50%, 1);
-  --destaque: hsla(355, 78%, 56%, 1);
+  --secundaria: rgb(8, 221, 54);
+  --destaque: rgb(224, 240, 7);
   --detalhe: hsla(9, 63%, 45%, 1);
 
 
@@ -20,12 +20,13 @@
   --detalhe:hsla(241, 96%, 72%, 1);*/
 }
 
-/* borda vermelha em todos os elementos para debug */
-/*
-* {
-  outline: red solid 1px;
-}
-*/
+
+ 
+  outline{
+    color: red;
+  } 
+
+
 
 body {
   margin: 0;
